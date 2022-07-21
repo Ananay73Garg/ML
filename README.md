@@ -1,5 +1,5 @@
 # CPP
-Competitive programming.#n
-Various coding attempts both failed and successfull.#n
+Competitive programming.
+Various coding attempts both failed and successfull.
 No such preference over different difficulties.
 Private.
